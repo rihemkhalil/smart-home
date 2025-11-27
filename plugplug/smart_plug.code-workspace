@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../smart_plug"
+		},
+		{
+			"name": "smart_plug",
+			"path": "../../Documents/PlatformIO/Projects/smart_plug"
+		}
+	],
+	"settings": {}
+}
